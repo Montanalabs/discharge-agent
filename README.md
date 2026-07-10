@@ -28,8 +28,8 @@ never compiles to a runnable agent.
 
 ## Files
 
-- `discharge-agent_safe.os` — the correct design.
-- `discharge-agent_unsafe.os` — the tempting-but-wrong version (the negative example a model must learn to reject).
+- `discharge-agent_safe.wave` — the correct design.
+- `discharge-agent_unsafe.wave` — the tempting-but-wrong version (the negative example a model must learn to reject).
 - `ondos.toml` — the project manifest (each app is a self-contained Ondos project).
 
 ---
